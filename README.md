@@ -1,0 +1,1 @@
+# lxqt-theme-manjaro

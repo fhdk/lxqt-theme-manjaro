@@ -1,1 +1,3 @@
-# lxqt-theme-manjaro
+# lxqt-themes
+
+https://codeberg.org/fhdk/lxqt-themes
